@@ -1,6 +1,3 @@
-## Pull Request Title
-<!-- Provide a concise, clear title for the PR. -->
-
 ### Description
 <!-- What does this PR do? Briefly describe the purpose of the changes. -->
 
